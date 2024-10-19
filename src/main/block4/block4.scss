@@ -1,0 +1,42 @@
+.categ-img {
+    max-width: 328px;
+    max-height: 328px;
+
+}
+
+.categories-card {
+    width: 335px;
+    height: 483px;
+    background: #F9F8F8;
+    border-radius: 30px;
+    padding: 28px;
+
+}
+
+.card-inner {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+
+}
+
+.card-type {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.card-type {
+    width: 96px;
+    height: 31px;
+  
+    background: #274C5B;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+}

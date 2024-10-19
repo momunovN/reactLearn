@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yellowtail&display=swap");
+
+
+.title-1 {
+    color: #68A47F;
+    font-size: 36px;
+    font-family: Yellowtail;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+.title-2 {
+    width: 530px;
+    color: #274C5B;
+    font-size: 70px;
+    font-family: Roboto;
+    font-weight: 800;
+    word-wrap: break-word;
+}
+
+
+.title-btn {
+    cursor: pointer;
+    width: 220px;
+    height: 79px;
+    border: none;
+    background: #EFD372;
+    border-radius: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    
+}
+
+.title-btn {
+    color: #274C5B;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+.selectino-1{
+    height: 898px;
+    background-image: url(../images/Image-Back.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+
+.sect-inner{
+    padding-top: 150px;
+}

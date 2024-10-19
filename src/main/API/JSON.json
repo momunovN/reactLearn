@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Calabrese Broccoli",
+    "price": 13.0,
+    "original_price": 20.0,
+    "type": "vegetable",
+    "image":"https://png.pngtree.com/png-clipart/20201208/original/pngtree-a-green-delicious-broccoli-png-image_5515345.jpg"
+  },
+  {
+    "name": "Fresh Banana Fruites",
+    "price": 14.0,
+    "original_price": 20.0,
+    "type": "fresh",
+    "image":"https://parspng.com/wp-content/uploads/2023/02/bananapng.parspng.com_.png"
+  },
+  {
+    "name": "White Nuts",
+    "price": 15.0,
+    "original_price": 20.0,
+    "type": "millet",
+    "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIALcAxgMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQYBAgQDB//EADoQAAEDAgQCCAQFAwQDAAAAAAEAAgMEEQUSITFBUQYTIjJhcYGRFEJSsQcjocHwM3LRFWKS4Rc08f/EABoBAQADAQEBAAAAAAAAAAAAAAABAgMEBQb/xAAnEQACAgEEAQQBBQAAAAAAAAAAAQIRAwQSITFRBRMiQSMUMkJhgf/aAAwDAQACEQMRAD8A+4oiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIsIDKwsOIbqV4STi3Z08VSU4x7JSs9ybbrzNRGDYuXDLKXE5v1Xk05jYLllq+eEarF5JVsrHbOW6jG7rYPLe6XNSOq8oq8fgkUXEKl7GkkGTQkW3VfqMVqKp5bLI6nYDrG3QjwJ3Vc+vxYYbuyFBlmlqYYv6ksbPNwXkcSpGj+qPQFV1ojdpoPALZ7W2Xky9azP9sUi/tosDMRpn7Se7SF0Mmif3Xtd5FU+Wphpxdy8W4xESMgtroVbH6zk/ml/hDgXpZUbgtd8dSZ3HtNNnKSXv4siywU0ZvgIiLQgIiIAiIgCIiA0e9rBdy5JsTpIXZZpmxnftG1/ddMgzCyjsUAio5KgiwgBkJ8ANf0/Zc+TJKL/AKLxSb5OuGvpptYpmP8A7XAr3EjS26+dT0tJWxNb1cLXntZo2DON7C9738QedrXUNW1fSDo2esoa2WqpWWL2VJ6xzP7uPsVwx9Si5bVya+zH6Z9RnqmgkfdcE9ZqqrgXTOj6Rg0tS1tNXAdhrXXEg/23t43Bvp626mVTWVb6cydu2YO5+X84LPJkk2axxpcUTjqxps1+jSe94rYudfTZQ73BwLANPslPWupniGY9g6Ru5FZ35LbfBMtntp916tm07WyjT+Z2ka9zDy8Oam2VZMMl7Oi5qyliqm2fdr7aPHD/ACuds2gXtHNoVMkpxplKIIYbUfGvpYocz7Zr/KBwN1NU2D9n86oe8c22A/dekssphd8O/LIWnLm2vy9fJV2k6V4tFOY8QwuMlriH/DyXLfQjX9FzQ0eGD5Vltsn0TlV0ZpKqO3XVDHfUHN/woGr6IV9Ld1JMypjBva2V3tsfdT+A9KsHxwOFBWRumZ/Ugf2ZIyNDdp1U0Hab3XZ+mxNUlRzyiyrdF3VdNVdS5rrHR8bhYgq5rmyNc4PLbkbHivZrl16LE8MNl8ETdnoiwsruKBERAEREAWritl5zOysJUS6Bq4rxlySROY/VrtHA8QeC5ZayNl83eXK/EGu0yuXnTyro2UD5xBUnCZX08sgM1PIYyfqym362upbEK2GsoWSda0l4y246/wA/VRfTqkyYxFXx9mOpaGSkDZ7b/dttPByr/Wz1DBDSsfK98hZGxl3FzjrYc9ifQngvLyaVOVx7CbTplfxRhwzEY5KZ5AMmeF44EG4P84q1Yjj0l6KvYAHzRh5A+V2zh5XB9zzU438P63FKKJlfLBQgNu/IOskdqfIXsfHYKY/8dYT8IyGSorH9W3K12drSNSSQMniu6t0VZtGdHFg+MQ4nTiSM5XjSRvEf9Lvc8FrgQ14IsWvGhHIrgf8Ah1HRO67C8VqYJht1rWvB8Ozl091y1TcXwsE1dMJ4hoZKcl1hzItf2usJxafxNYtNHpU4xVdHMj6tr6vBi4N+IuXS0pOzZNO23k7c8buIvY6Wrp6qAT00rJo36tkY4EH1VbocYp6qNwa6OaKRpa9ju0142IPAi2luKjKrCZsKJxHo++Z1I3WWmicTJD/aNns5tIJG4vwspKXD4YcS9B2QlezJuW6o+H9MJHsD5Io66Ei4lhOV4Hi335KYp+k2Fysa/rHxXtpKwgDzNiP1V3Fr6KOJZWSc1FdJMGosfoBTVj5YnBxMU8MmV8TtduBGp0PPhutoa2GrYHU0kcoOrcj73HotsWl6uj6x7sha9tgd3E6fv+ijc1yiKKBJ+GsmHNbJ8a+WXNmbUsJaXO53vdp9VMYb0ix/o9aGvz1sDdnTHtAeDtz63Vqo6u8eSU3a7Qh2y5cRoyxjpIm9ZTEHO3cs9PTx9Fz5MuZPdfBKpcM78L6b4VXBokkkppNg2Zth77Kxx1McrQ6N4IIuC3ivlk2EwzxumoA5ttCMpsPNcVNUYjh07Wskmhse6HHKf2KnHrZd0T7MZdH2iKTNovYKk4D0m6yQQ1oyy2uHjYq6Rva9jXsN2uFweYXsaXOssLRyZMbg+TdERdRmFhZXhUv6qGSTfI0utzsFWTpWDkxTEG0gEbMplOuvAeKiziFQ8duR3pYBRrZjPO6V+bO4d4rBfcgHgvmtVr8k5fFtI1xxsYjJUOY50ZueRNrqrVPSR9JOYZA5kje8199fG6tjm9YyyicQwOOua4Sxte4C7czbrnx6ht/M6FJIrWLYxFXYdPFM6xezSx1zDUf48irZ+HnRc4XQ/GVsBZW1Db5XEl0Tdw2/A7X9tbKkyYezDMapXTw2jimY+3DQ6H7FfTIKx5jLTKSTuCvVVRVrlMq1u5J06GzeCxfmoB0AmY7O1xa7ctkLD6FpBUFXdGJZHmTDukOM0b+Eb6yR8YPncO/UrRZOCNhey1eUtO147S+U17umODPHWYnWOj+WZsnWMPq4fdb0XTXpHTn86WOqA3E0IB922WbnEKLRd8S6KYbXvMskDWyHeSMljj5kb+t1Xavo9juDSfEYNUfGRjXqZSGv9Hd0+oCxH+JckX/u4Q8DnDJe/obfdSFJ+JXR6ocG1Mk1G46WqIiB/wAhcfqlJ9IupSRUq1tBi1U4zRuwjHQ67xK0xtlP+7kTbvAf8tFGuqZsMqBTYzE9k2nbbYZx5jRw8R7X2+nYhT4D0pogGzUs9tI5mODurJ5Efa6oOK0s2GulwqtyTxR2ysl7bQNwWncLSHPAeSjzccPrXZIYXVMz75GsBvexta4sP/ii8Op6mhxMRV1KaaSws1x021IPEHw2U/0WwtkDoQ0bXcSddzsrZVYbBWUxp6gCzgcrzu13A34G/wC/A2XDk1dZNiVorvOKmm/Jbldr4qSpqp7bBxu3x4qoQ1UtLM+mqSBLGbHkeRHmpqCtzLauCbOzF6AvppKqha50jQ53U5yLHm0cfEG/hwChIJ469sXXZQ9wFnNGjv8AHFTtPVFrhvlJ1sLr2jwWCTFI6yGUNYX55YzffmDwGmvK59IWPc0i25xRK0PROmgmbJNMZC3YBuX91Z4mhjGsb3WgALjilvrzXVEdV7OHDDGvijknOUnyeyIi2KGCueqb1tNNHtmY5vlcLoPdK5nusO1sqyVxaCKNDI4ADLsV7OluS2QXvsOS9K+JtNOWOGW/ba4d1w8f591HS1LWOve/HmCPdfK58EoSaovTXKO1rns3e3LxWxmb9S4Pic3yAeIQ5jq1ri07kDRcriug5s1xijZXU9rajUa2N/ArkwasBD6aV95YXZTmFri2h9ipJncVSx6R1DjMdTH3ZQGyW562J9NPQLr0s3exsvjm7L8yQuAyyIc7dXFp8lBYViTZ4QCpZs2i7lybtHQ2W7XNsMpFnA7H0UVWdHYJSZaFrWutcwnY/wBvJdjpe0O0tmyuabqk4KSoFeGDwSgskaWkaEHguGq6IUc+ZpIudg3Q+yt1THHWRdtzoZbWZM21x4HmP5oqlic1bhlT1FcC0uv1co1Y8X3af2OoXH7eeEviyj4K7J0er8ArW1FJUHqidJWusR4OHFd9diEuJugE+r447X5je3v9yu6uqY5KGXOQS8Xs12jjwPv9vRR2DUxlFRIeFgPMld0cv4Xkl2irk2WjAoxG1pbu8AnyU+WnIczey/Q+yi6FkYewBttAGnf+bKXmJ6sXOYrw7cpNhrgqvTCldURxVsDcs8YtJYb68fceyiaOasjNpI2uHsVdZKdsrHiTuuNwveHB4j8q+h0H5oPd9FN9EDQzPcG3id6qyYe1xINrLpgwljflUjBSZLLujp4xdkPJZtTjZdsXfC82Rr3iGq6kZnsiIpBg90rkmGi6zsvGRiAgsRhbKxzXsBbvrwKq9YGwOIJza6E2BHurzUQZwoTEMNbKHdlY5cKkXjNorAY2VxfBJGMo1jNmEf5vzW8TJuuDZARG75muvfTbgtKvC56d2enuCNha4XA6RzHfnwvDmuuC06ajW915uXRLs2ThLsl31EVJnhlAzMF2l5y3bz8Rz9VWulMBqKfr20xiaHNDXB3ecQb+en85zLcXLWA3c/6WltyDpx2C0kjqMScOsBEebNlOuvr5n3WOn0Uo5FIrtiuSrYViE9FI0TNc5n1AahWyixWnqBaOVpP02s72K2HR9rwOzdeMvRofK1ehPTqTsLISbJf9y3EihDhNbTD8mSRoGw3CyH4jD34mvt4EFZPTyLqaJwTfTusyvgq6d9JiETZoHfI7Sx5g8D4ixUJ/qcw0fRuuOT/+kOIynSOlLSfqk/ayz9qVlnJUcWNYEMPZJPSvfPSvG7ngPjuQADz14jlwXP0alZeWNw1Lr2/nku2enqKzWYEj6R3R6KOloZqaUSwXY4bG26tPSb8LhdWY7lZc6ZuVvWlpAY0a89df54Lv+JY/+ne/jyVZwrFTUR9RUWZUAat2D/JdwrWQP7Tey7Z9hZtuB1Xifp5Y5bZIvdolXG5VipmXa0+AVOpav4/FIqSNvd7cx+lvBXuBlgLC3gva9Nxyim2jCao2ZGvUMWwatrL1ShrlWWhbWQKSTKIiALFllEBo9mZcssGbRdqxZAQ1RQNeO6oyowSN9+yrSWXWhhSrBUBgETXA5V2wYWxnyqw9SsiFRtQsiG0dvlW5o2/SpXqljq0oEQ6hb9K8X4bG/wCVTpjWpiSgVx+DR/StW4LH9KsvUp1KjaLK7/pLALZVxVeDNeD2VbjCtXU1xdNos+c1WAnNdgs4G4IWjMIqZ3MEpc4NIPJfQnUTfpRlE1uuVZywxl2SpUQvR/CYqDWKKxe7M88z4lWeJugWkUGRdAC0jFR6Ibb5AWVhFYBZREAREQBERAEREAREQBERAEREBiyWWUQGLJZZRAYslllEBjKEssogCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgP/2Q=="
+  },
+  {
+    "name": "Vegan Red Tomato",
+    "price": 17.0,
+    "original_price": 20.0,
+    "type": "vegetable",
+    "image":"https://media.istockphoto.com/id/1333250753/photo/cherry-tomatoes-and-halves-are-flying-on-a-white-background-isolated.jpg?s=612x612&w=0&k=20&c=o4QOgeT6Yp88ORgoCAVe5_rQyCf740_sK8MFU_0sd6A="
+  },
+  {
+    "name": "Mung Bean",
+    "price": 11.0,
+    "original_price": 20.0,
+    "type": "health",
+    "image":"https://www.pngplay.com/wp-content/uploads/7/Mung-Bean-Transparent-Background.png"
+  },
+  {
+    "name": "Brown Hazelnut",
+    "price": 12.0,
+    "original_price": 20.0,
+    "type": "nuts",
+    "image":"https://static.vecteezy.com/system/resources/thumbnails/050/478/326/small_2x/fresh-hazelnuts-in-a-wooden-bowl-ready-for-cooking-png.png"
+  },
+  {
+    "name": "Eggs",
+    "price": 17.0,
+    "original_price": 20.0,
+    "type": "fresh",
+    "image":"https://pngimg.com/uploads/egg/egg_PNG40792.png"
+  },
+  {
+    "name": "Zelco Suji Elaichi Rusk",
+    "price": 15.0,
+    "original_price": 20.0,
+    "type": "fresh",
+    "image":"https://png.pngtree.com/recommend-works/png-clipart/20240625/ourmid/pngtree-bread-rusks-isolated-on-white-background-png-image_12830523.png"
+  }
+]
