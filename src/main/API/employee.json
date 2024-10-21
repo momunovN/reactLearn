@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sara Taylor",
+    "avatar": "https://i.imgur.com/87s0w5O.png",
+    "review": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+    "rating": 5
+  },
+  {
+    "name": "John Doe",
+    "avatar": "https://i.imgur.com/87s0w5O.png",
+    "review": "This is a great product! I highly recommend it.",
+    "rating": 4
+  },
+  {
+    "name": "Jane Smith",
+    "avatar": "https://i.imgur.com/87s0w5O.png",
+    "review": "I'm so happy with this purchase! It's exactly what I was looking for.",
+    "rating": 5
+  }
+]

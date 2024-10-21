@@ -1,7 +1,6 @@
 import React from "react";
 import './block4.scss'
 import '../main.scss'
-import Nur from "../images/Photo.svg"
 
 
 import categoris from "../API/JSON.json"
@@ -9,12 +8,7 @@ import categoris from "../API/JSON.json"
 
 const Categori = () =>{
 
-    const data = categoris
-
-
-
-
-
+    const data = categoris;
     return(
         <div className="card-inner">
             {data.map((item)=>(
@@ -24,8 +18,8 @@ const Categori = () =>{
                     <div className="name-price">
                         <h1>{item.name}</h1>
                         <div className="categ-price">
-                            <p className="orig-price">{item.original_price}</p>
-                            <p className="sale-price">{item.price}</p>
+                            <p className="orig-price">${item.original_price}</p>
+                            <p className="sale-price">${item.price}</p>
                         </div>
                     </div>
                 </div>

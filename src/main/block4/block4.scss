@@ -1,7 +1,17 @@
+@import url(../main.scss);
+
+.block-4 {
+    margin-top: 175px;
+}
+
+
+
 .categ-img {
     max-width: 328px;
     max-height: 328px;
-
+    user-select: none;
+    pointer-events: none;
+    cursor: no-drop;
 }
 
 .categories-card {
@@ -10,13 +20,15 @@
     background: #F9F8F8;
     border-radius: 30px;
     padding: 28px;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .card-inner {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-
+    gap: 20px;
 
 }
 
@@ -32,11 +44,99 @@
 .card-type {
     width: 96px;
     height: 31px;
-  
+
     background: #274C5B;
     border-radius: 8px;
     justify-content: center;
     align-items: center;
     gap: 10px;
     display: flex;
+}
+
+.categ-price {
+    margin-top: 13px;
+    border-top: 2px solid #DEDDDD;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+
+
+
+    .orig-price {
+        text-decoration: line-through;
+        color: #B8B8B8;
+        font-size: 20px;
+        font-family: Open Sans;
+        font-weight: 600;
+        word-wrap: break-word;
+        padding-top: 3px;
+    }
+
+
+
+    .sale-price {
+        text-align: center;
+        color: #274C5B;
+        font-size: 23px;
+        font-family: Open Sans;
+        font-weight: 700;
+        word-wrap: break-word;
+        padding-top: 3px;
+
+    }
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.block4-inner {
+
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+
+    .block4-title {
+        text-align: center;
+        color: #7EB693;
+        font-size: 36px;
+        font-family: Yellowtail;
+        font-weight: 400;
+        word-wrap: break-word;
+
+    }
+
+
+    .block4-text {
+        text-align: center;
+        color: #274C5B;
+        font-size: 50px;
+        font-family: Roboto;
+        font-weight: 800;
+        word-wrap: break-word;
+    }
+}
+
+
+.categ-btn {
+    width: 220px;
+    height: 79px;
+    background: #274C5B;
+    border-radius: 16px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    gap: 10px;
+    display: flex;
+}
+
+.categ-btn {
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word;
 }
