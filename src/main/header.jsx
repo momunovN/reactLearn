@@ -36,7 +36,7 @@ const Header = () => {
             </div>
             <div class="head_search_btn">
               <div class="search-container">
-                <input type="text" placeholder="Search..." class="inp_header" />
+                <input type="text" class="inp_header" />
                 <img src={SearchIcon} alt="" />
               </div>
             </div>

@@ -92,7 +92,7 @@ p {
 }
 
 .block4-inner {
-
+    padding-bottom: 200px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -130,6 +130,8 @@ p {
     align-self: center;
     gap: 10px;
     display: flex;
+    position: relative;
+    top: 50px;
 }
 
 .categ-btn {

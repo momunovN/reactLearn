@@ -1,20 +1,23 @@
 [
   {
     "name": "Sara Taylor",
-    "avatar": "https://i.imgur.com/87s0w5O.png",
+    "avatar": "https://avatars.dzeninfra.ru/get-zen_doc/2453078/pub_602b6317f4991829406282c8_602b6f535e188e5c3565a191/scale_1200",
     "review": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
-    "rating": 5
+    "rating": 5,
+    "user":"Директор"
   },
   {
     "name": "John Doe",
-    "avatar": "https://i.imgur.com/87s0w5O.png",
+    "avatar": "https://i.pinimg.com/originals/66/b5/48/66b548a84939fc59d6a29dd04db9c4f1.jpg",
     "review": "This is a great product! I highly recommend it.",
-    "rating": 4
+    "rating": 4,
+    "user":"Consumer2"
   },
   {
     "name": "Jane Smith",
-    "avatar": "https://i.imgur.com/87s0w5O.png",
+    "avatar": "https://static.tildacdn.com/tild3731-3966-4662-b661-383033643761/DHS_4665_w.jpg",
     "review": "I'm so happy with this purchase! It's exactly what I was looking for.",
-    "rating": 5
+    "rating": 5,
+    "user":"Consumer3"
   }
 ]
