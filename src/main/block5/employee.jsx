@@ -9,7 +9,7 @@ const Slide = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      setActiveIndex((prevIndex) => (prevIndex + 1) % employee.length);
+      setActiveIndex((prevIndex) => (prevIndex + 1) % DataEmployee.length);
     }, 3000);
     return () => clearInterval(interval);
   }, []);

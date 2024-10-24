@@ -5,8 +5,7 @@ import Block2 from "../main/block2/block2";
 import Block3 from "../main/block3/block3";
 import Products from "../main/block4/block4";
 import Counter from "../main/block5/block5";
-
-
+import SectVeget from "../main/block6/sect6";
 const IndexMain = () => {
   return (
     <>
@@ -16,6 +15,7 @@ const IndexMain = () => {
       <Block3/>
       <Products/>
       <Counter/>
+      <SectVeget/>
     </>
   );
 };

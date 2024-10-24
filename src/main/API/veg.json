@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Vegetable",
+    "image": "broccoli",
+    "price": 11.0,
+    "original_price": 20.0,
+    "name": "Mung Bean"
+  },
+  {
+    "type": "Vegetable",
+    "image": "zucchini",
+    "price": 12.0,
+    "original_price": 20.0,
+    "name": "Brown Hazelnut"
+  },
+  {
+    "type": "Vegetable",
+    "image": "onion",
+    "price": 17.0,
+    "original_price": 20.0,
+    "name": "Onion"
+  },
+  {
+    "type": "Vegetable",
+    "image": "cabbage",
+    "price": 17.0,
+    "original_price": 20.0,
+    "name": "Cabbage"
+  },
+  {
+    "type": "Vegetable",
+    "image": "carrot",
+    "price": 13.0,
+    "original_price": 20.0,
+    "name": "Carrot"
+  },
+  {
+    "type": "Vegetable",
+    "image": "celery",
+    "price": 14.0,
+    "original_price": 20.0,
+    "name": "Celery"
+  },
+  {
+    "type": "Vegetable",
+    "image": "green_beans",
+    "price": 15.0,
+    "original_price": 20.0,
+    "name": "Green Beans"
+  },
+  {
+    "type": "Vegetable",
+    "image": "spinach",
+    "price": 16.0,
+    "original_price": 20.0,
+    "name": "Spinach"
+  },
+  {
+    "type": "Vegetable",
+    "image": "lettuce",
+    "price": 18.0,
+    "original_price": 20.0,
+    "name": "Lettuce"
+  },
+  {
+    "type": "Vegetable",
+    "image": "pepper",
+    "price": 19.0,
+    "original_price": 20.0,
+    "name": "Pepper"
+  }
+]
