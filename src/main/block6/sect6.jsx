@@ -7,7 +7,6 @@ import Aarrow from "../images/Aerrow.svg"
 
 const SectVeget = () => {
   const [showAllProducts, setShowAllProducts] = useState(false);
-  const [showMore, setShowMore] = useState(false);
   const handleViewAllClick = () => {
     setShowAllProducts(!showAllProducts);
   };
