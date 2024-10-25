@@ -1,0 +1,152 @@
+.sect6-title p {
+    width: 117.83px;
+    color: #7EB693;
+    font-size: 36px;
+    font-family: Yellowtail;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sect6-title h1 {
+    width: 580px;
+    color: white;
+    font-size: 50px;
+    font-family: Roboto;
+    font-weight: 800;
+    word-wrap: break-word;
+}
+
+
+.section6 {
+    display: flex;
+    align-items: center;
+    background-color: #274C5B;
+    height: 100%;
+    padding: 201px 0 201px 0;
+
+}
+
+.cont_inner-item6 {
+    gap: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sect6_-title_bnt {
+    display: flex;
+    width: 1400px;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.sect6_-btn {
+    width: 256px;
+    height: 79px;
+
+    background: #EFD372;
+    border-radius: 16px;
+
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+}
+
+.sect6_-btn {
+    color: #274C5B;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+
+.vegetable_-card-inner {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+
+}
+
+.vegetable_-card {
+    width: 279px;
+    height: 427px;
+    background: #F9F8F8;
+    border-radius: 30px;
+    padding: 28px;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.vegetable_card-type {
+
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-weight: 600;
+    word-wrap: break-word;
+
+
+
+    width: 96px;
+    height: 31px;
+
+    background: #274C5B;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+
+}
+
+
+.vegetable_categ-img{
+    max-width: 328px;
+    max-height: 328px;
+    user-select: none;
+    pointer-events: none;
+    cursor: no-drop;
+
+}
+
+.vegetable_categ-price{
+    margin-top: 13px;
+    border-top: 2px solid #DEDDDD;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+
+
+
+    .vegetable_orig-price {
+        text-decoration: line-through;
+        color: #B8B8B8;
+        font-size: 20px;
+        font-family: Open Sans;
+        font-weight: 600;
+        word-wrap: break-word;
+        padding-top: 3px;
+    }
+
+
+
+    .vegetable_sale-price {
+        text-align: center;
+        color: #274C5B;
+        font-size: 23px;
+        font-family: Open Sans;
+        font-weight: 700;
+        word-wrap: break-word;
+        padding-top: 3px;
+
+    }
+}
