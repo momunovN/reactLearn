@@ -7,8 +7,8 @@ import Products from "../main/block4/block4";
 import Counter from "../main/block5/block5";
 import SectVeget from "../main/block6/sect6";
 import SectiotEco from "../main/block7/sect7";
-
-
+import Gallery from "../main/block8/sect8";
+import Footer from "../main/footer/footer";
 const IndexMain = () => {
   return (
     <>
@@ -20,6 +20,8 @@ const IndexMain = () => {
       <Counter/>
       <SectVeget/>
       <SectiotEco/>
+      <Gallery/>
+      <Footer/>
     </>
   );
 };
